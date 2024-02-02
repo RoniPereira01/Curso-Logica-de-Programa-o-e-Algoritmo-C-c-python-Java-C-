@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700074146 source:c:\users\ronilson\documents\bee 1041\main.c
+	<stdio.h>
+	<stdlib.h>
+
